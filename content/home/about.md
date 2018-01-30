@@ -12,59 +12,51 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
+    "Multivariate regression models",
+    "Estimating functions",
+    "Mathematical Statistics",
+    "Generalized Linear Models",
     "Computational Statistics",
-    "Spatio-temporal models",
-    "Bayesian Inference"
+    "R language"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Statistics and Agricultural Experimentation"
-  institution = "Universidade de São Paulo"
-  year = 2018
+  course = "PhD in Mathematics and Computer Science"
+  institution = "University of Southern Denmark - SDU"
+  year = 2016
 
 [[education.courses]]
-  course = "MSc in Ecology"
-  institution = "Universidade Federal de Santa Catarina"
+  course = "MSc in Numerical Methods in Engineering"
+  institution = "Universidade Federal do Paraná"
   year = 2010
 
 [[education.courses]]
-  course = "BSc in Oceanography"
-  institution = "Universidade do Vale do Itajaí"
-  year = 2005
+  course = "BSc in Statistics"
+  institution = "Universidade Federal do Paraná"
+  year = 2008
 
 +++
 
 # Biography
 
-I'm an Assistant Professor in the [Statistics Department][1] at the
-Federal University of Paraná ([UFPR][8]), Brazil. I'am a member of the
-Laboratory of Statistics and Geoinformation ([LEG][]), where I deal
-mainly with statistical spatial models applied to environmental and
-ecological problems, specially those dealing with marine fisheries
-resources. I'm also a collaborator at the Laboratory of Environmental
-Statistics ([LEA][]) of Federal University of Rio Grande ([FURG][]).
+Wagner Hugo Bonat is Researcher and Lecturer of the [Department of Statistics][1]
+at Paraná Federal University([UFPR][2]), where he has been since 2010.
+He is the Head of the Data Science and Big Data program ([DSBD][]) and 
+a member of the Laboratory of Statistics and Geoinformation ([LEG][]).
+He received a B.S. from Paraná Federal University in 2008, and an 
+M.S. from the Paraná Federal University in 2010. He received his 
+Ph.D. in Mathematics and Computer Science from the University of 
+Southern Denmark in 2016.
 
-Originally, I have a bachelor degree in [Oceanography][3] from University
-of Vale do Itajaí ([UNIVALI][9]), with a master's degree in [Ecology][5]
-from Federal University of Santa Catarina ([UFSC][10]). Currently, I'am a
-Ph.D. candidate in [Statistics and Agricultural Experimentation][] at
-University of São Paulo ([USP][11]), Brazil.
+His research lies on statistical modelling and estimating functions.
+Much of his work has been on extending the generalized linear model
+class to deal with multiple response variables. His main contribution
+is a new class of multivariate models called Multivariate Covariance
+Generalized Linear models (McGLMs) and the associated R package ([mcglm][])
 
 [1]: http://www.est.ufpr.br/
 [2]: http://www.ufpr.br/
 [LEG]: http://www.leg.ufpr.br/
-[LEA]: http://www.imef.furg.br/index.php/laboratorios/12-lea.html
-[FURG]: http://www.furg.br/
-[3]: http://www.univali.br/oceano
-[4]: http://www.univali.br/
-[5]: http://poseco.ufsc.br
-[6]: http://ufsc.br/
-[Estatística e Experimentação Agronômica]: http://www4.esalq.usp.br/pg/programas/estatistica
-[ESALQ]: http://www4.esalq.usp.br/
-[7]: http://www5.usp.br/
-[8]: https://issuu.com/ufprdigital/docs/ufpr_english
-[9]: http://www.univali.br/english
-[10]: http://en.ufsc.br
-[Statistics and Agricultural Experimentation]: http://www.en.esalq.usp.br/graduate/programs/agricultural-statistics-and-experimentation
-[11]: http://www5.usp.br/en/
+[DSBD]: http://dsbd.leg.ufpr.br/
+[mcglm]: https://cran.r-project.org/web/packages/mcglm/index.html/

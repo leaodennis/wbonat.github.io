@@ -24,7 +24,7 @@ defaultContentLanguageInSubdir = false
 
 [params]
   name = "Wagner Hugo Bonat"
-  role = "Researcher and Lecturer"
+  role = "REsearcher and Lecturer"
   organization = "UFPR/DEST/LEG"
   organization_url = "www.leg.ufpr.br"
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
